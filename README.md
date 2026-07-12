@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi there, I'm Ritika Gujar 👋
 
-<!--
-**Ritika911211/Ritika911211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student (3rd Year)
+🛡️ Aspiring Cybersecurity Analyst
+🤖 AI & Machine Learning Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a passionate Information Technology student with a strong interest in Cybersecurity, Ethical Hacking, and Artificial Intelligence. I enjoy learning through hands-on projects, vulnerability analysis, and security tools. My goal is to build secure systems while continuously improving my technical skills through practical experience.
+
+---
+
+## 🛠️ Technical Skills
+
+### Cybersecurity
+- Nmap
+- Wireshark
+- Scapy
+- Feroxbuster
+- VeraCrypt
+- Kali Linux
+- Network Reconnaissance
+- Port Scanning
+- Basic Vulnerability Assessment
+
+### Programming Languages
+- C++
+- Python
+- SQL
+- HTML
+- CSS
+
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- VirtualBox
+- Windows
+- Linux
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Nmap Port Scanner Analysis
+Performed network reconnaissance and service detection using Nmap to identify open ports and analyze exposed services.
+
+### 🔹 Password Strength Checker
+Developed a Python-based password strength checker to evaluate password security using multiple validation rules.
+
+### 🔹 Phishing Detection Research
+Studied phishing techniques and methods used to bypass spam filters during cybersecurity virtual training.
+
+---
+
+## 🏆 Certifications
+
+- Cybersecurity Virtual Internship
+- AI Virtual Internship
+- Network Security Training
+- Ethical Hacking Fundamentals
+
+---
+
+## 🌱 Currently Learning
+
+- Penetration Testing
+- Web Application Security
+- Python for Cybersecurity
+- Linux Administration
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/ritika-gujar-601329331
+- 💻 GitHub: https://github.com/Ritika911211
+
+---
+
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+
