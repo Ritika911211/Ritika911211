@@ -83,3 +83,9 @@ Studied phishing techniques and methods used to bypass spam filters during cyber
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritika911211/Ritika911211/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
