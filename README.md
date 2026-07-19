@@ -1,4 +1,6 @@
-# Hi there, I'm Ritika Gujar 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritika+Gujar;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast;%F0%9F%92%BB+B.Tech+IT+Student;%F0%9F%94%8D+Aspiring+Security+Analyst;%F0%9F%90%8D+Python+%26+AI+Learner)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋 I'm Ritika Gujar</h1>
 
 🎓 B.Tech Information Technology Student (3rd Year)
 🛡️ Aspiring Cybersecurity Analyst
