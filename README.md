@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritika+Gujar;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast;%F0%9F%92%BB+B.Tech+IT+Student;%F0%9F%94%8D+Aspiring+Security+Analyst;%F0%9F%90%8D+Python+%26+AI+Learner)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="<img width="1920" height="1075" alt="buffik-lines-5475657_1920 (1)" src="https://github.com/user-attachments/assets/4ca9a2e4-9f88-4133-9828-c24fecf0dc70" />
+  <img src="buffik-lines-5475657_1920.jpg" />
 />
 " width="850" alt="Cybersecurity Banner"/>
 </p>
